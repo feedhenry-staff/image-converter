@@ -50,7 +50,7 @@ queue such as [async.queue](https://github.com/caolan/async#queue) to prevent
 too many concurrent conversions.
 
 ### More Complexity?
-For more complex operations use [https://github.com/aheckmann/gm](gm).
+For more complex operations use [gm](https://github.com/aheckmann/gm).
 
 ## API
 
