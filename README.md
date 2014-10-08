@@ -49,6 +49,9 @@ Converting images is CPU intensive, so be careful! You should probably use a
 queue such as [async.queue](https://github.com/caolan/async#queue) to prevent 
 too many concurrent conversions.
 
+### More Complexity?
+For more complex operations use [https://github.com/aheckmann/gm](gm).
+
 ## API
 
 ### convert(bytes, fromFormat, toFormat, callback)
